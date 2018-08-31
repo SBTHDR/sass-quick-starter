@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: #ddd;
+  font-family: "Arial";
+  text-align: center; }
+
+.container {
+  max-width: 1170px;
+  margin: auto; }
+
+.box {
+  background: #21262b;
+  padding: 50px 25px;
+  margin-top: 20px; }
+
+.box h1 {
+  color: #fff;
+  margin-bottom: 20px; }
+
+.box p {
+  color: #fff; }

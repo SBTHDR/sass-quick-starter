@@ -18,7 +18,7 @@ $ npm install
 
 ### Run
 
-This will compile watch your sass files and run the dev server at http://localhost:3000
+This will compile and watch your sass files and run the dev server at http://localhost:3000
 
 ```sh
 $ npm start
